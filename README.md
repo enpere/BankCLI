@@ -1,4 +1,4 @@
-Skrapeko
+BankCli
 ========
 
 Swedbank CLI scraper. // just for fun. 
